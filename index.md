@@ -3,6 +3,6 @@ title:
 description:
 ---
 
-This is content I've developed for my courses:
+This is content I've developed in my coursework:
 
-- [Basic Graph Assignment](/Jupyter/index.md)
+- [Basic Graph Assignment (Python)](/Jupyter/index.md)
