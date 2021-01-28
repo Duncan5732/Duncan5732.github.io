@@ -4,5 +4,5 @@ description: Course Content
 ---
 
 Here is a Jupyter notebook I created in my CTBA course
-- [Basic Graphing (html)] (BasicGraphAssignment.html)
-- [Basic Graphing (ipynb)] (BasicGraphAssignment.ipynb)
+- [Basic Graphs (html)] (BasicGraphAssignment.html)
+- [Basic Graphs (ipynb)] (BasicGraphAssignment.ipynb)
