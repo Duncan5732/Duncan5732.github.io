@@ -5,4 +5,4 @@ description:
 
 This is content I've developed in my coursework:
 
-- [Basic Graph Assignment (Python)](/jupyter/index.md)
+- [Basic Graphing Assignment (Python)](/basic_graphs/index.md)
