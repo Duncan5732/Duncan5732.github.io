@@ -3,7 +3,7 @@ title:
 description:
 ---
 
-![My Picture](/pics/)
+![My Picture](/pics/COTA.jpg)
 
 This is content I've developed in my coursework:
 
