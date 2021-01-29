@@ -1,5 +1,5 @@
 ---
-title:
+title: Duncan's GitHub Page
 description:
 ---
 
